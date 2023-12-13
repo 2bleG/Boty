@@ -8,7 +8,7 @@ Pour lancer ce projet il vous faudra un compte llama2 et générer un token d'ap
 [llama]
 token = VotreTokenllama2
 ```
-il faudra également faire une install sur votre projet en faisant les commandes 
+il faudra également faire une install sur votre projet en faisant les commandes :
 
 ```bash
 pip install Flask
